@@ -25,7 +25,7 @@ The dataset was modeled and analyzed using Power Query and DAX in Power BI to cr
   - **RFM Table:** Aggregated metrics per customer (R, F, M, F+M, Final Score, Segment).
   - **Segmentation Table:** Raw transactional data (Order, Customer, Product, Location).
 - **Relationship:** `Customer ID` connects RFM to Segmentation in a **One-to-Many** relationship.
-!Model Screenshot
+![Screenshot](asset/picture/model_view.png)
 
 ## RFM Methodology
 - **Recency (R):** The number of days since the customer’s last transaction up to the reference date.
