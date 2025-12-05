@@ -17,8 +17,6 @@ The primary goal is to help businesses identify high-value customers, reduce chu
 
 The dataset was modeled and analyzed using Power Query and DAX in Power BI to create a user-friendly and insightful dashboard.
 
-***Power BI Dashboard Link***
-
 ## Dataset & Model
 - **Data Source:** Superstore dataset (2014–2017).
 - **Data Model:**
