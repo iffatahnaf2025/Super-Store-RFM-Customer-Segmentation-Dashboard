@@ -5,7 +5,7 @@
 This project provides a comprehensive analysis of customer behavior using the Recency, Frequency, and Monetary (RFM) model. Leveraging the Superstore dataset (2014–2017), this interactive Power BI dashboard visualizes key insights into customer segmentation, purchasing patterns, and revenue contribution.
 The primary goal is to help businesses identify high-value customers, reduce churn, and optimize marketing strategies through data-driven decisions.
 
-### Preview Dashboard
+### Preview Dashboard [[*Click here to see dashboard*]](https://app.powerbi.com/groups/me/reports/d9cb1296-377c-499b-8471-5bb214c2acc3/b3f159c48e2e69ee3c8e?experience=power-bi)
 ![Screenshot](asset/picture/dashboard_preview.png)
 
 ## Insights and Recommendations Cover the Following Key Areas
