@@ -6,7 +6,7 @@ This project provides a comprehensive analysis of customer behavior using the Re
 The primary goal is to help businesses identify high-value customers, reduce churn, and optimize marketing strategies through data-driven decisions.
 
 ## Preview Dashboard
-!Dashboard Screenshot
+![Screenshot](asset/picture/dashboard_preview.png)
 
 ## Insights and Recommendations Cover the Following Key Areas
 
